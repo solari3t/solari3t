@@ -1,7 +1,9 @@
 ## 🙋‍♂️Hi, There!
 
-My name is Choi DongHyun from Seoul, South Korea🇰🇷, currently worked in Actbase as a Backend-Developer⌨️.
-
+Welcome to my github page! 
+My name is Choi DongHyun from Seoul, South Korea🇰🇷,
+Currently working in Actbase as a Backend-Developer⌨️.
+Feel free to Contact me on 
 
 ## 📈 code stats 
 
