@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+![](https://github.com/solari3t/github-stats/blob/master/generated/overview.svg)
+
+![](https://github.com/solari3t/github-stats/blob/master/generated/languages.svg)
+
+
 <!--
 **solari3t/solari3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
