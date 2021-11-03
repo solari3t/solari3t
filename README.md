@@ -1,10 +1,11 @@
-## Hi, I'm Donghyun Choi 🙋‍♂️
+## 🙋‍♂️Hi, I'm Donghyun Choi 
 
 
 
 <img height=160em  src="https://github-readme-stats.vercel.app/api?username=solari3t&" align = "center"/>
 
-### my-coding-stat
+## 📈 code stats 
+
 <div width=100% style="display: flex;">
 <img   height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solari3t&layout=compact" align = "center"/>
 <img   height="100em" src="https://github-readme-stats.vercel.app/api/wakatime?username=solari3t&" align = "center"/>
