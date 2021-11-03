@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![img](https://github.com/solari3t/github-stat/tree/master/generated/overview.svg)
+[![Solari3t's GitHub stats](https://github-readme-stats.vercel.app/api?username=solari3t)](https://github.com/anuraghazra/github-readme-stats)
 
-![img2](https://github.com/solari3t/github-stat/tree/master/generated/languages.svg)
 
 
 <!--
