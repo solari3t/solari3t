@@ -2,6 +2,8 @@
 
 [![Solari3t's GitHub stats](https://github-readme-stats.vercel.app/api?username=solari3t)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=solari3t)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
