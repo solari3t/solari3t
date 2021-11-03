@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi, I'm Donghyun Choi 🙋‍♂️
 
-[![Solari3t's GitHub stats](https://github-readme-stats.vercel.app/api?username=solari3t&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=solari3t&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex;">
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=solari3t&theme=onedark" align = "center"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solari3t&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solari3t&theme=onedark&layout=compact" align = "center"/>
+</div>
+<img width="100%"  height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=solari3t&theme=onedark" align = "center"/>
 
 
 
