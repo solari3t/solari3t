@@ -4,6 +4,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=solari3t&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solair3t&theme=oneDark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
