@@ -2,11 +2,12 @@
 
 
 <div style="display: flex;">
-<img width=45%  height="180em" src="https://github-readme-stats.vercel.app/api?username=solari3t&theme=onedark" align = "center"/>
+<img width=42% height="50%" src="https://github-readme-stats.vercel.app/api?username=solari3t&theme=onedark" align = "center"/>
 
-<img width=45%  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solari3t&theme=onedark&layout=compact" align = "center"/>
+<img max-width=49%  height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solari3t&theme=onedark&layout=compact" align = "center"/>
+<img width="54%"  height="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=solari3t&theme=onedark" align = "center"/>
 </div>
-<img width="100%"  height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=solari3t&theme=onedark" align = "center"/>
+
 
 
 
