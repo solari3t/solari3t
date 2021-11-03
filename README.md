@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-![](https://github.com/solari3t/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/solari3t/github-stat/tree/master/generated/overview.svg)
 
-![](https://github.com/solari3t/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/solari3t/github-stat/tree/master/generated/languages.svg)
 
 
 <!--
