@@ -1,10 +1,13 @@
-## 🙋‍♂️Hi, I'm Donghyun Choi 
+## 🙋‍♂️Hi, There!
+
+My name is Choi DongHyun from Seoul, South Korea🇰🇷, currently worked in Actbase as a Backend-Developer⌨️.
 
 
+## 📈 code stats 
 
 <img height=160em  src="https://github-readme-stats.vercel.app/api?username=solari3t&" align = "center"/>
 
-## 📈 code stats 
+
 
 <div width=100% style="display: flex;">
 <img   height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solari3t&layout=compact" align = "center"/>
