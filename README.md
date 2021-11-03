@@ -4,8 +4,8 @@
 <div width=100% style="display: flex;">
 
 
-<img   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solari3t&layout=compact" align = "center"/>
-<img   height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=solari3t&" align = "center"/>
+<img   height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solari3t&layout=compact" align = "center"/>
+<img   height="90em" src="https://github-readme-stats.vercel.app/api/wakatime?username=solari3t&" align = "center"/>
 </div>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=solari3t&" align = "center"/>
